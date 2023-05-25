@@ -85,6 +85,13 @@ p{
     color: hsl(215, 51%, 70%);
 }
 
+.title {
+    color: hsl(215, 51%, 70%);
+    font-size: 16.5px;
+    font-weight: normal;
+    line-height: 1.4;
+}
+
 .eth-days {
     display: flex;
     align-items: center;
